@@ -1,6 +1,6 @@
 {
   "name": "Chat_Mute",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/Dimolade/STRAFTATChatMuter/",
   "description": "When muting a player, block their incoming messages.",
   "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
